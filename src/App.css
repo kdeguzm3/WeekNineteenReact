@@ -52,7 +52,7 @@ box-shadow: 5px 5px 5px 5px rgba(0,0,0,1),
 
 .optionsDiv {
   position: fixed;
-  background-color: red;
+  background-color: #6441a5;
   width: 300px;
   border-radius: 10px 10px 0px 0px;
   margin: 0 auto;
