@@ -65,6 +65,17 @@ box-shadow: 5px 5px 5px 5px rgba(0,0,0,1),
   right: calc((100vh - 300px)/2);
 }
 
+.optionsForm {
+  transition: height 500ms;
+  height: 300px;
+}
+
+.optionsForm hr {
+  width: 90%;
+  margin: 4px auto;
+  opacity: .6;
+}
+
 .collapsed {
   overflow: hidden;
   height: 0;
