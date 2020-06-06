@@ -1,0 +1,82 @@
+[
+    {
+        "Name": "Aang",
+        "Bending": ["Air", "Fire", "Earth", "Water", "Energy"],
+        "Organization": "Avatar"
+    },
+    {
+        "Name": "Katara",
+        "Bending": ["Water", "Blood"],
+        "Organization": "Southern Water Tribe"
+    },
+    {
+        "Name": "Sokka",
+        "Bending": ["None"],
+        "Organization": "Southern Water Tribe"
+    },
+    {
+        "Name": "Zuko",
+        "Bending": ["Fire", "Lightning"],
+        "Organization": "Fire Nation"
+    },
+    {
+        "Name": "Iroh",
+        "Bending": ["Fire", "Lightning"],
+        "Organization": "Fire Nation"
+    },
+    {
+        "Name": "Toph Beifong",
+        "Bending": ["Earth", "Metal"],
+        "Organization": "Earth Kingdom"
+    },
+    {
+        "Name": "Azula",
+        "Bending": ["Fire", "Lightning"],
+        "Organization": "Fire Nation"
+    },
+    {
+        "Name": "Suki",
+        "Bending": ["None"],
+        "Organization": "Kyoshi Warriors"
+    },
+    {
+        "Name": "Ty Lee",
+        "Bending": ["None"],
+        "Organization": "Fire Nation"
+    },
+    {
+        "Name": "Princess Yue",
+        "Bending": ["Water"],
+        "Organization": "The Moon"
+    },
+    {
+        "Name": "King Bumi",
+        "Bending": ["Earth"],
+        "Organization": "Earth Kingdom"
+    },
+    {
+        "Name": "Master Pakku",
+        "Bending": ["Water"],
+        "Organization": "Northern Water Tribe"
+    },
+    {
+        "Name": "Jet",
+        "Bending": ["None"],
+        "Organization": "Freedom Fighters"
+    },
+    {
+        "Name": "Long Feng",
+        "Bending": ["Earth"],
+        "Organization": "Dai Li"
+    },
+    {
+        "Name": "Avatar Roku",
+        "Bending": ["Fire", "Earth", "Water", "Air"],
+        "Organization": "Avatar"
+    },
+    {
+        "Name": "Avatar Kyoshi",
+        "Bending": ["Earth", "Fire", "Water", "Air"],
+        "Organization": "Avatar"
+    },
+]
