@@ -8,12 +8,10 @@
 html, body {
   background-color: rgb(20,20,20);
   height: 100vh;
-}
-
-body {
   background-image: url('/all.jpg');
   background-size: 33vw;
   background-repeat: repeat-x;
+  background-attachment: fixed;
 }
 
 .Header {
