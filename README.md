@@ -14,6 +14,10 @@
 
         $ App does not have case matching capability yet.  Capitalize the first letter of every word in the query.  Sort by is self explanatory.
 
+## Bonus
+
+        $ Try searching for "Air" "Fire" "Water" or "Earth"
+
 ## License
 
 MIT

@@ -7,6 +7,13 @@
 
 html, body {
   background-color: rgb(20,20,20);
+  height: 100vh;
+}
+
+body {
+  background-image: url('/all.jpg');
+  background-size: 33vw;
+  background-repeat: repeat-x;
 }
 
 .Header {
@@ -28,7 +35,7 @@ width: 50vw;
 padding: 1em 1em 5em 1em;
 min-width: 600px;
 box-shadow: 5px 5px 5px 5px rgba(0,0,0,1),
--5px -5px 5px 5px rgba(255,255,255,0.1);
+-5px -5px 5px 5px rgba(0,0,0,0.5);
 }
 
 .Employee {

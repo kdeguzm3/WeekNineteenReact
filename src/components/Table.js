@@ -10,6 +10,35 @@ const EmployeeTable = () => {
     const [sort, setSort] = useState("name");
     const [arrayResult, setArrayResult] = useState (EmployeeData);
 
+    const handleBackdrop = (element) => {
+        switch (element) {
+            case "Air":
+                {
+                    document.body.style.backgroundImage = "url('/air.jpg')";
+                    break;
+                }
+                case "Fire":
+                    {
+                        document.body.style.backgroundImage = "url('/fire.jpg')";
+                        break;
+                    }
+                case "Water":
+                {
+                    document.body.style.backgroundImage = "url('/water.jpg')";
+                    break;
+                }
+                case "Earth":
+                {
+                    document.body.style.backgroundImage = "url('/earth.jpg')";
+                    break;
+                }
+            default:
+                {
+                    document.body.style.backgroundImage = "url('/all.jpg')";
+                    break;
+                }
+        }
+    }
 
     const handleSubmit = () => {
         let tempArray = EmployeeData;
@@ -23,6 +52,8 @@ const EmployeeTable = () => {
         console.log(tempArray);
 
         setArrayResult (tempArray)
+
+        handleBackdrop(query)
     };
 
 return (
